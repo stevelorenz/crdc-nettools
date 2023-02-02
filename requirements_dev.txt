@@ -1,0 +1,10 @@
+Sphinx
+black
+bump2version
+coverage
+flake8
+pip
+tox
+twine
+watchdog
+wheel
